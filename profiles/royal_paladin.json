@@ -1,0 +1,10 @@
+{
+  "combo": [
+    { "hotkey": "space", "delay": 0.2 },
+    { "hotkey": "F8", "delay": 2.1 },
+    { "hotkey": "space", "delay": 0.2 },
+    { "hotkey": "F9", "delay": 2.1 }
+  ],
+  "before_hotkeys": ["="],
+  "after_hotkeys": ["-", "F24"]
+}
